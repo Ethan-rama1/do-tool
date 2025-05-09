@@ -27,11 +27,11 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
+<!-- <br /> -->
 <div align="center">
-  <a href="https://github.com/Ethan-rama1/do-tool">
+  <!-- <a href="https://github.com/Ethan-rama1/do-tool">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
 <h3 align="center">Do-Tool</h3>
 
