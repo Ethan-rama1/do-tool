@@ -12,5 +12,4 @@ Provide the issue number and link for this PR. If an issue does not exist for th
 
 
 ## Checklist
-- [ ] I have performed a self-reeview of my code
-- [ ] If
+- [ ] I have performed a self-review of my code

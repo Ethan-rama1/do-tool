@@ -82,7 +82,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-TBA
+**Do-Tool** is an open-source, automated grade tracking system designed to support educators by streamlining student progress monitoring. 
+
+Built with integration to the Canvas LMS API, Do-Tool automatically identifies missing assignments and grade thresholds, then sends personalized email reminders to students.
+
+Do-Tool aims to reduce administrative overhead for teachers while encouraging timely student engagement through frequent accountability, improving classroom management and student-teacher relationships. 
+
+This project was inspired by **NudgEd** which is being developed on [MLH Twitch](https://twitch.tv/mlh) as part of **Global Hack Week: Open Source (May 2025)**. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,8 +96,8 @@ TBA
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
+<!-- * [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url] -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,6 +137,7 @@ TBA
     - [ ] README.md
     - [ ] Issues Template for Bugs
     - [ ] Issues Template for Feature Requests
+    - [ ] PR Template
 - [ ] App Setup
 - [ ] Email Integrations
 - [ ] Canvas API
@@ -146,14 +153,17 @@ See the [open issues](https://github.com/Ethan-rama1/do-tool/issues) for a full 
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+If you have a suggestion that would make this better, please open an issue with the tag "enhancement". If you have written code for an issue, please open a pull request. 
+
+Please read our [contributing guidelines](https://github.com/ethan-rama1/do-tool/blob/main/contributing.md) before making a pull request. 
+
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`) or your Bug Branch (`git checkout -b feature/AtrociousBug`)
+3. Commit your Changes (`git commit -m`)
+4. Push to the Branch (`git push origin`)
+5. Open a <a href="https://github.com/ethan-rama1/do-tool/pulls">Pull Request</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -182,18 +192,6 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_
 Project Link: [https://github.com/Ethan-rama1/do-tool](https://github.com/Ethan-rama1/do-tool)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
